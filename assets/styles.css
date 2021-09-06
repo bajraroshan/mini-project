@@ -181,6 +181,7 @@ header + div{
     width: auto;
     margin: auto;
     display: block;
+    cursor: pointer;
 }
 
 footer{
